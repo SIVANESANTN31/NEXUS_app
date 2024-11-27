@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:image_picker/image_picker.dart';
-import 'LoginPage.dart'; // Ensure this import is correct
+import 'screens/LoginPage.dart'; 
 
 void main() {
   runApp(const MyApp());
